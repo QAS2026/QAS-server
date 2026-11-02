@@ -36,3 +36,6 @@ logs/
 *.bak
 *.swp
 *~
+
+# Local GitHub App credentials
+config/local.properties
